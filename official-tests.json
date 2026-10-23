@@ -1,0 +1,136 @@
+{
+  "checkedAt": "2026-10-22",
+  "publisher": "College Board",
+  "source": "https://satsuite.collegeboard.org/practice/practice-tests/paper",
+  "format": "official nonadaptive paper practice",
+  "modules": [
+    {
+      "key": "rw1",
+      "label": "Reading & Writing · Module 1",
+      "section": "rw",
+      "questions": 33,
+      "seconds": 2340
+    },
+    {
+      "key": "rw2",
+      "label": "Reading & Writing · Module 2",
+      "section": "rw",
+      "questions": 33,
+      "seconds": 2340
+    },
+    {
+      "key": "math1",
+      "label": "Math · Module 1",
+      "section": "math",
+      "questions": 27,
+      "seconds": 2580
+    },
+    {
+      "key": "math2",
+      "label": "Math · Module 2",
+      "section": "math",
+      "questions": 27,
+      "seconds": 2580
+    }
+  ],
+  "tests": [
+    {
+      "id": 4,
+      "label": "SAT Practice Test #4",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-4-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-4-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-4-answers-digital.pdf"
+    },
+    {
+      "id": 5,
+      "label": "SAT Practice Test #5",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-5-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-5-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-5-answers-digital.pdf",
+      "pages": [
+        4,
+        18,
+        32,
+        42
+      ]
+    },
+    {
+      "id": 6,
+      "label": "SAT Practice Test #6",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-6-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-6-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-6-answers-digital.pdf",
+      "pages": [
+        4,
+        18,
+        32,
+        44
+      ]
+    },
+    {
+      "id": 7,
+      "label": "SAT Practice Test #7",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-7-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-7-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-7-answers-digital.pdf",
+      "pages": [
+        4,
+        20,
+        32,
+        42
+      ]
+    },
+    {
+      "id": 8,
+      "label": "SAT Practice Test #8",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-8-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-8-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-8-answers-digital.pdf",
+      "pages": [
+        4,
+        18,
+        32,
+        42
+      ]
+    },
+    {
+      "id": 9,
+      "label": "SAT Practice Test #9",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-9-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-9-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-9-answers-digital.pdf",
+      "pages": [
+        4,
+        18,
+        32,
+        40
+      ]
+    },
+    {
+      "id": 10,
+      "label": "SAT Practice Test #10",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-10-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-10-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-10-answers-digital.pdf",
+      "pages": [
+        4,
+        18,
+        32,
+        44
+      ]
+    },
+    {
+      "id": 11,
+      "label": "SAT Practice Test #11",
+      "pdf": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-11-digital.pdf",
+      "key": "https://satsuite.collegeboard.org/media/pdf/scoring-sat-practice-test-11-digital.pdf",
+      "explanations": "https://satsuite.collegeboard.org/media/pdf/sat-practice-test-11-answers-digital.pdf",
+      "pages": [
+        4,
+        18,
+        32,
+        42
+      ]
+    }
+  ]
+}
